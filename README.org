@@ -1,0 +1,10 @@
+* cl-lambdacalc
+
+Define Lisp functions using lambda calculus syntax
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scottmcleodjr/cl-lambdacalc.git   |
+| commit  | a3d8506  |
+| systems | cl-lambdacalc |
+|---------+-------------------------------------------|
+
